@@ -1,0 +1,4 @@
+"S. No",Date,"Invoice No",Product,Quantity,Employee,Branch,Type,Total,Collected
+1,2017-01-27,invram123,"Flame Proof Motors",1,Ramramesh,Hyderabad,"By Check/DD",15599.43,3200
+2,2017-01-27,invram123,"Flame Proof Motors",1,Ramramesh,Hyderabad,"By Check/DD",15599.43,2200
+,,,,,,,,5400

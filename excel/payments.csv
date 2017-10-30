@@ -1,0 +1,12 @@
+"S. No",Date,"Invoice No",Employee,Branch,Type,Total,Collected
+1,2017-08-16,3600287,,,"Bank Transfer",11607.97545,11607.97545
+2,2017-08-04,3600245,Jagdish.A,Hyderabad,"By Check/DD",18302.68825,18302.68825
+3,2017-08-04,3600249,"Gowtham Goud.M",Hyderabad,"By Check/DD",86599.9518,86599.9518
+4,2017-08-04,3600250,"Gowtham Goud.M",Hyderabad,"By Check/DD",35680.242,35680.242
+5,2017-08-04,3600251,"Pavan Kumar Mandaloju ",Hyderabad,"By Check/DD",1109109.25,1109109.25
+6,2017-08-04,3700008,"Kousar Pasha Abdul",Hyderabad,"By Cash",18593.80875,18593.80875
+7,2017-08-05,3700009,"Kousar Pasha Abdul",Hyderabad,"By Cash",2369.7,2369.7
+8,2017-07-28,3600154,"Noman Ali Khan",Hyderabad,"Bank Transfer",13646.325,13646.325
+9,2017-07-03,3600158,"Adithya Subash Chander",Hyderabad,"By Cash",51504.915,51504.915
+10,2017-03-30,3600159,"Adithya Subash Chander",Hyderabad,"By Check/DD",40301.415,40301.415
+,,,,,,,1387716.27125

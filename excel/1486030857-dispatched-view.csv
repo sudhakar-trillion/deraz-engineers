@@ -1,0 +1,4 @@
+"S. No","Dispatch Date",Executive,"Runcard No","Invoice Date",Invoice,enquirynumber,"enquiry date",Company,Product,"Model No",Ordered,Dispatched,Remarks
+1,02-02-2017,newusertest,feb-rc-10007,01-02-2017,feb-inv-10007,,2017-02-01,newcustomertest,testprd,test-prd-code,25,2,01-02-2017,ddsf
+2,02-02-2017,newusertest,feb-rc-10007,01-02-2017,feb-inv-10007,,2017-02-01,newcustomertest,testprd,test-prd-code,25,5,01-02-2017,
+3,02-02-2017,newusertest,feb-rc-10007,01-02-2017,feb-inv-10007,,2017-02-01,newcustomertest,testprd,test-prd-code,25,10,01-02-2017,"Out of stock"

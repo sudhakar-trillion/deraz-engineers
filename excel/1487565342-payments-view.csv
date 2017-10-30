@@ -1,0 +1,3 @@
+"S. No",Date,"Invoice No",Product,Quantity,Employee,Branch,Type,Total,Collected
+1,2017-02-18,inv01,"Air Compressor",1,,,"By Check/DD",626018.6,60000
+,,,,,,,,60000

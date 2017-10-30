@@ -1,0 +1,16 @@
+<?php
+$dbhost							= "localhost";
+// local
+/*$db							= "derazrevised";
+$dbuser							= "root";
+$dbpass							= "";*/
+
+//vsksamsu_derazer
+// server
+$db							= "vsksamsu_derazerp";
+//$dbuser							= "vsksamsu_dertest";
+$dbuser							= "vsksamsu_derazer";
+$dbpass							= "vG1C^-2oXhZH";
+
+$conn = mysql_connect($dbhost, $dbuser, $dbpass) or die ("Error connecting to mysql");
+mysql_select_db($db); ?>

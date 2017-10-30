@@ -1,0 +1,3 @@
+"S. No",Date,"Invoice No",Product,Quantity,Employee,Branch,Type,Total,Collected
+1,2017-03-28,inv-1247,<ol><li>prd-testbrnad</li><li>prd2-testbrand</li></ol>,<ol><li>2</li><li>3</li></ol>," Chandana Rani .C",Hyderabad,"By Check/DD",2483.25,1483.25
+,,,,,,,,1483.25

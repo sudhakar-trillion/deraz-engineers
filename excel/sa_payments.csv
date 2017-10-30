@@ -1,0 +1,11 @@
+"S. No",Date,Invoice,Customer,Total,Collected,Type
+1,2017-07-14,3600062,"Mr.N.V. Subba Rao",165533,165534.20865,"By Cash"
+2,2017-07-12,3600057,"Mr. M.A. Shakir",25008,25008.27876,"By Check/DD"
+3,2017-05-26,235,"Mr. Jain",63686,63686.8605,"By Check/DD"
+4,2017-05-23,234,"Mr. Jain",21187,21189.239925,"By Check/DD"
+5,2017-05-25,217,"Mr. Sastry",125050,125050.752613,"By Check/DD"
+6,2017-05-26,204," Ms. Lavannya",67343.43,67343.43,"By Check/DD"
+7,2017-05-10,195,"Mr.UST Sai",88683,88684.2275,"By Check/DD"
+8,2017-06-23,187," Mr. Rama Krishna",47526,47526.5628,"Bank Transfer"
+9,2017-05-16,148," Mr. Rama Krishna",24849.825,24849.825,"Bank Transfer"
+,,,,,628873.385748

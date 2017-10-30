@@ -1,0 +1,1 @@
+<option>get brand options <?php echo $_GET['cid']; ?></option>

@@ -1,0 +1,5 @@
+"S. No","Report Date","Po Date","PO No","Invoice Date","Invoice No.",Executive,Company,Amount,Collected,Pending
+1,10-10-2015,10-10-2015,potr123,10-10-2015,invtr001,Ishan,"jeeva manufacturers",3000,0,3000
+2,08-10-2015,09-10-2015,abcde,09-10-2015,ivcchk12,Ishan,"smrithi technologies",20000,0,20000
+3,08-10-2015,00-00-0000,po1123,09-10-2015,ivcchk12,Ishan,"jeeva manufacturers",2000000,0,2000000
+4,29-09-2015,09-10-2015,po33,09-10-2015,invoicecheck145,Ishan,"smrithi technologies",650000,0,650000

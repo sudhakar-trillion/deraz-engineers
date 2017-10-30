@@ -1,0 +1,3 @@
+"S. No",Date,"Invoice No",Product,Quantity,Employee,Branch,Type,Total,Collected
+1,2017-02-03,faq-inv-1228,testprd3,100,Joseph,Hyderabad,"By Check/DD",97842.03,25000
+,,,,,,,,25000
